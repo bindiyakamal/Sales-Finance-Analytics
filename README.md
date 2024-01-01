@@ -6,7 +6,7 @@
 ## **Project Description:**
 The Sales-Finance-Analytics project is a comprehensive analysis of sales and financial data. I have  utilized advanced tools such as M.S Excel, Power Query and Power Pivot, these help me turn complicated data into easy-to-understand insights. I've looked at things like how well customers are buying, how AtliQ sales compare to targets, which countries are doing the best, and even how new products are performing.I also checked  how much money is coming in and going out each month. This helps me see which months are bringing in the most profit and which ones might need some extra attention.
 
-### **Key Features and Insights:**💡
+### Key Features and Insights:💡
 
 [Sales Analytics:](Sales.pdf)
 
@@ -22,7 +22,7 @@ The Sales-Finance-Analytics project is a comprehensive analysis of sales and fin
 
 :eight_pointed_black_star:**Division Level Report:** Obtained a comprehensive overview of sales data broken down by divisions, allowing for targeted division-specific strategies:dart:.
 
-Finanace Analytics:
+[Finanace Analytics:](P&Lreports.pdf)
 
 :eight_spoked_asterisk:**Profit & Loss by Markets:** I have looked into data from different markets where the Atliq company sells its products or services and was able to find out  which markets are the most profitable.This information can guide decisions about where to invest more resources and where to make changes.
 
