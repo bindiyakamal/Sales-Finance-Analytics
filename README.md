@@ -1,6 +1,5 @@
 :large_orange_diamond: [Presentation Link](https://drive.google.com/file/d/1MW0VV5p50IMdoaRDCZiNWkzvU2Rr_14x/view?usp=sharing)
 
-:large_orange_diamond: [My Portfolio](https://sites.google.com/view/bindiyakamal/home?authuser=2)
 
 # Sales-Finance-Analytics-Excel
 
