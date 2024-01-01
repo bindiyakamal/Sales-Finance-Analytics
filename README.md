@@ -8,7 +8,7 @@ The Sales-Finance-Analytics project is a comprehensive analysis of sales and fin
 
 ### **Key Features and Insights:**💡
 
-[Sales Analytics:]
+[Sales Analytics:](Sales.pdf)
 
 :eight_spoked_asterisk:**Customer Sales Performance:**  I have gained a deep understanding of customer buying behavior and have also identified the top-performing clients and opportunities for AtliQ Hardware's targeted strategies:dart:.
 
